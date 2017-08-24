@@ -1,2 +1,3 @@
-# hello-world
-Just to learn how to make a repository
+#hello-world
+
+~I want to learn JS and ReactJS.
